@@ -1,0 +1,59 @@
+.header {
+    background-color: #038fd3;
+    color: white;
+    padding: 10px;
+}
+.rod-carousel {
+    margin-top: 10px;
+}
+.center-bottom {
+    margin-top: 10px;
+}
+.green {
+    background-color: #28a745;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.yellow {
+    background-color: #ffc107;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.blue {
+    background-color: #007BFD; 
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.red {
+    background-color: #dc3545;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.rod-2 {
+    margin-top: 30px;
+}
+.footer {
+    background-color: #011e2e;
+    padding: 20px;
+    color: white;
+    margin-top: 10px;
+}
+
+.up {
+    position: fixed;
+    width: 60px;
+    top: 840px;
+    right: 50px
+}
+.up:hover {
+    background-color: darkred;
+    border-radius: 90px;
+}
